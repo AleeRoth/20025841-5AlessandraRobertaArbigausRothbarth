@@ -73,7 +73,7 @@
   margin-top: 5rem;
 }
 .container-contatos{
-  background-color: white;
+  background-color: #FFB6C1;
   background-size: cover;
 }*/
 .container-contatos h2{
