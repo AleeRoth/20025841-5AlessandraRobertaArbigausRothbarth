@@ -22,7 +22,7 @@
     h2,h5{
       padding-top: .5rem;
       text-align: center;
-      color: #FFC0CB;
+      color: black;
       margin-bottom: 2rem;
     }
     a{
@@ -48,8 +48,8 @@
 .btn {
   
   border: none;
-  background-color: #eac7a2;
-  color: #F08080;
+  background-color: #FFD4D7;
+  color: #FFD4D7;
 }
 
 .produtos {
@@ -67,21 +67,21 @@
   height: 13rem;
 }
 .navbar {
-  background-color: #FFB6C1;
+  background-color: black;
 }
 #row {
   margin-top: 5rem;
 }
 .container-contatos{
-  background-color:#eac7a2;
+  background-color: white;
   background-size: cover;
 }*/
 .container-contatos h2{
-  color: whitesmoke;
+  color: black;
 }
 .cont{
   background-color: #FFB6C1;
-  color: whitesmoke;
+  color: black;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -92,13 +92,13 @@
 }
 .contatos {
   margin-right: 2rem;
-  color: whitesmoke;
+  color: black;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   background-size: cover;
-  background-color: #b6844f;
+  background-color: #FFF5EE;
 }
 input,textarea{
   border-radius: 5px;
@@ -111,12 +111,12 @@ input,textarea{
 }
 
 footer {
-  color:#CD5C5C;
+  color:##FFD4D7;
   margin-top:auto;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  background-color:#eac7a2;
+  background-color:#FFD4D7;
 }
 footer img{
   padding: .4rem;
@@ -145,7 +145,7 @@ footer img{
   width: 60%;
 }
 .comprar{
-  background-color:#F08080 ;
+  background-color: #FFD4D7 ;
   padding: .5rem;
   border-radius: 3px;
   border: none;
@@ -153,7 +153,7 @@ footer img{
 }
 .botao-valor{
   font-size: 20px;
-  color: #F08080;
+  color: black;
   margin:none;
   display: flex;
   justify-content: center;
