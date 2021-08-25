@@ -111,7 +111,7 @@ input,textarea{
 }
 
 footer {
-  color:##FFD4D7;
+  color: black;
   margin-top:auto;
   display: flex;
   justify-content: space-evenly;
@@ -149,7 +149,7 @@ footer img{
   padding: .5rem;
   border-radius: 3px;
   border: none;
-  color: #DC143C;
+  color: black;
 }
 .botao-valor{
   font-size: 20px;
